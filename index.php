@@ -36,12 +36,12 @@
             </div>
             <div class="row">
                 <div class="mb-3 col-6">
-                    <label for="exampleInputEmail1" class="form-label">Email address</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <label for="email" class="form-label">Email address</label>
+                    <input type="email" class="form-control" id="email" aria-describedby="emailHelp">
                 </div>
                 <div class="mb-3 col-6">
-                    <label for="exampleInputPassword1" class="form-label">Password</label>
-                    <input type="password" class="form-control" id="exampleInputPassword1">
+                    <label for="passCode" class="form-label">Password</label>
+                    <input type="password" class="form-control" id="passCode">
                 </div>
             </div>
             
